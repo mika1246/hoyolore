@@ -1,0 +1,59 @@
+{
+  "id": "seven-sovereigns",
+  "kind": "term",
+  "name": {
+    "en": "Seven Sovereigns",
+    "ru": "Семь Владык"
+  },
+  "description": {
+    "en": "The dragon order is repeatedly framed as the world’s original or pre-usurpation order; the later divine order did not simply emerge naturally — the old rulers were defeated and elemental Authorities were taken from them. Known members with dedicated records: Nibelung, Apep, and (in the present era) Neuvillette. Other elemental Sovereigns should only be represented individually once the game supplies enough evidence.",
+    "ru": "Драконий порядок неоднократно описывается как изначальный, доузурпационный порядок мира; позднейший божественный порядок не возник естественным путём — прежние правители были повержены, а их элементальные Прерогативы отняты. Известные представители с отдельными записями: Нибелунг, Апеп и (в нынешнюю эпоху) Невилет. Прочих элементальных Владык следует описывать отдельно только при достаточных подтверждениях в игре."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-before-sun-and-moon"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [
+    {
+      "type": "character",
+      "id": "nibelung"
+    },
+    {
+      "type": "character",
+      "id": "apep"
+    },
+    {
+      "type": "character",
+      "id": "neuvillette"
+    },
+    {
+      "type": "term",
+      "id": "heavenly-principles"
+    }
+  ],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "category": "collective",
+  "definition": {
+    "en": "The seven ancient elemental dragon rulers who governed Teyvat before the current heavenly order.",
+    "ru": "Семеро древних элементальных драконьих правителей, управлявших Тейватом до нынешнего небесного порядка."
+  },
+  "alternativeTranslations": [],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "2.1"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

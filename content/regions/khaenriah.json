@@ -1,0 +1,52 @@
+{
+  "id": "khaenriah",
+  "kind": "region",
+  "name": {
+    "en": "Khaenri’ah",
+    "ru": "Каэнри’ах"
+  },
+  "description": {
+    "en": "A human civilization outside the ordinary rule of the gods and the Seven. Its fall involved multiple factions and an unresolved causal sequence; it is not synonymous with the Abyss.",
+    "ru": "Человеческая цивилизация вне обычной власти богов и Семерых. Её падение связано с несколькими группами и невыясненной цепью причин; она не тождественна Бездне."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-caribert",
+    "src-bedtime-story",
+    "src-dainsleif-archon-quests"
+  ],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "color": "#6b7189",
+  "civilizations": [
+    {
+      "en": "Eclipse Dynasty (ruled by King Irmin)",
+      "ru": "Династия Затмения (под правлением царя Ирмина)"
+    }
+  ],
+  "organizations": [
+    {
+      "en": "Five Sinners",
+      "ru": "Пятеро Грешников"
+    }
+  ],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "15",
+      "24"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

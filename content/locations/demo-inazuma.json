@@ -1,0 +1,34 @@
+{
+  "id": "demo-inazuma",
+  "kind": "location",
+  "name": {
+    "en": "Study site 3",
+    "ru": "Учебная точка 3"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "region": "inazuma",
+  "locationType": "schematic",
+  "coordinates": {
+    "x": 8200,
+    "y": 7700,
+    "confidence": "speculative"
+  },
+  "existencePeriod": {
+    "startBP": 900,
+    "endBP": 0
+  },
+  "historicalStatus": "unknown"
+}

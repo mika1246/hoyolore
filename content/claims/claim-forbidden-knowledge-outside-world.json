@@ -1,0 +1,46 @@
+{
+  "id": "claim-forbidden-knowledge-outside-world",
+  "kind": "claim",
+  "name": {
+    "en": "Forbidden Knowledge does not belong to Teyvat's ordinary wor…",
+    "ru": "Запретное знание не принадлежит обычному миру Тейвата; по сл…"
+  },
+  "description": {
+    "en": "Forbidden Knowledge does not belong to Teyvat's ordinary world; per Greater Lord Rukkhadevata, it originates from the depths of the Abyss and is rejected by the world itself.",
+    "ru": "Запретное знание не принадлежит обычному миру Тейвата; по словам Великого Владыки Рукхадеваты, оно происходит из глубин Бездны и отвергнуто самим миром."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-where-boat-of-consciousness-lies"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "subject": {
+    "type": "term",
+    "id": "forbidden-knowledge"
+  },
+  "statement": {
+    "en": "Forbidden Knowledge does not belong to Teyvat's ordinary world; per Greater Lord Rukkhadevata, it originates from the depths of the Abyss and is rejected by the world itself.",
+    "ru": "Запретное знание не принадлежит обычному миру Тейвата; по словам Великого Владыки Рукхадеваты, оно происходит из глубин Бездны и отвергнуто самим миром."
+  },
+  "introducedInVersion": "v-sumeru",
+  "status": "current",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "core"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

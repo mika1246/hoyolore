@@ -1,0 +1,47 @@
+{
+  "id": "claim-irminsul-rewrite-not-physical-undo",
+  "kind": "claim",
+  "name": {
+    "en": "Irminsul rewriting changes memories and accessible records, …",
+    "ru": "Переписывание Ирминсуля меняет память и доступные записи, но…"
+  },
+  "description": {
+    "en": "Irminsul rewriting changes memories and accessible records, not the underlying physical past: removing information from Irminsul does not undo the events themselves, only how they are remembered and documented.",
+    "ru": "Переписывание Ирминсуля меняет память и доступные записи, но не изменяет само физическое прошлое: удаление сведений из Ирминсуля не отменяет сами события, а лишь то, как они помнятся и документируются."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-where-boat-of-consciousness-lies",
+    "src-sumeru-aq-ch3-act5"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "subject": {
+    "type": "term",
+    "id": "irminsul"
+  },
+  "statement": {
+    "en": "Irminsul rewriting changes memories and accessible records, not the underlying physical past: removing information from Irminsul does not undo the events themselves, only how they are remembered and documented.",
+    "ru": "Переписывание Ирминсуля меняет память и доступные записи, но не изменяет само физическое прошлое: удаление сведений из Ирминсуля не отменяет сами события, а лишь то, как они помнятся и документируются."
+  },
+  "introducedInVersion": "v-sumeru",
+  "status": "current",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "core"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "src-hymns-of-far-north",
+  "kind": "source",
+  "name": {
+    "en": "Hymns of the Far North, Vol. 1–2",
+    "ru": "Hymns of the Far North, Vol. 1–2"
+  },
+  "description": {
+    "en": "Northern myth-history naming Saarelainen and supplying the Third Descender identification chain.",
+    "ru": "Северная мифоистория, называющая Саарелайнена и содержащая цепочку отождествления с Третьим Сошедшим."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "sourceType": "Book",
+  "gameVersion": "v-nod-krai",
+  "introducedInVersion": "v-nod-krai",
+  "notes": {
+    "en": "Northern myth-history naming Saarelainen and supplying the Third Descender identification chain.",
+    "ru": "Северная мифоистория, называющая Саарелайнена и содержащая цепочку отождествления с Третьим Сошедшим."
+  },
+  "processingStatus": "partially-processed",
+  "mentions": [
+    {
+      "type": "era",
+      "id": "era-post-war-restructuring"
+    },
+    {
+      "type": "event",
+      "id": "saarelainen-death"
+    },
+    {
+      "type": "character",
+      "id": "saarelainen"
+    },
+    {
+      "type": "relationship",
+      "id": "saarelainen-third-descender"
+    },
+    {
+      "type": "claim",
+      "id": "claim-saarelainen-is-third-descender"
+    }
+  ],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "33"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

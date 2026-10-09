@@ -1,0 +1,34 @@
+{
+  "id": "demo-sumeru",
+  "kind": "location",
+  "name": {
+    "en": "Study site 4",
+    "ru": "Учебная точка 4"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "region": "sumeru",
+  "locationType": "schematic",
+  "coordinates": {
+    "x": 3200,
+    "y": 5700,
+    "confidence": "speculative"
+  },
+  "existencePeriod": {
+    "startBP": 900,
+    "endBP": 0
+  },
+  "historicalStatus": "unknown"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "demo-undated",
+  "kind": "event",
+  "name": {
+    "en": "An undated fragment",
+    "ru": "Недатированный фрагмент"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "date": {
+    "type": "relative",
+    "after": "demo-event-mondstadt"
+  },
+  "regions": [
+    "mondstadt"
+  ],
+  "locations": [],
+  "participants": [],
+  "relatedTerms": [],
+  "summary": {
+    "en": "A relative date without an invented numeric position.",
+    "ru": "Относительная дата без выдуманной числовой позиции."
+  },
+  "eventType": "research"
+}

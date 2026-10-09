@@ -1,0 +1,45 @@
+{
+  "id": "demo-boundary",
+  "kind": "geometry",
+  "name": {
+    "en": "Schematic study area",
+    "ru": "Схематическая область исследования"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": false,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "geometryType": "polygon",
+  "points": [
+    [
+      5800,
+      1700
+    ],
+    [
+      7900,
+      1900
+    ],
+    [
+      8100,
+      3600
+    ],
+    [
+      6400,
+      4100
+    ],
+    [
+      5500,
+      2900
+    ]
+  ]
+}

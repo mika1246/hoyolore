@@ -1,0 +1,116 @@
+{
+  "id": "src-where-boat-of-consciousness-lies",
+  "kind": "source",
+  "name": {
+    "en": "Where the Boat of Consciousness Lies",
+    "ru": "Where the Boat of Consciousness Lies"
+  },
+  "description": {
+    "en": "Part of Sumeru Chapter III, Act V. Defines forbidden knowledge and describes the Deshret crisis, Cataclysm pollution and Rukkhadevata’s erasure.",
+    "ru": "Часть главы III, акта V Сумеру. Определение запретного знания, кризис Дешрета, заражение времён Катаклизма и удаление Руккхадеваты."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "sourceType": "Archon Quest",
+  "gameVersion": "v-sumeru",
+  "introducedInVersion": "v-sumeru",
+  "notes": {
+    "en": "Part of Sumeru Chapter III, Act V. Defines forbidden knowledge and describes the Deshret crisis, Cataclysm pollution and Rukkhadevata’s erasure.",
+    "ru": "Часть главы III, акта V Сумеру. Определение запретного знания, кризис Дешрета, заражение времён Катаклизма и удаление Руккхадеваты."
+  },
+  "processingStatus": "partially-processed",
+  "mentions": [
+    {
+      "type": "region",
+      "id": "sumeru"
+    },
+    {
+      "type": "era",
+      "id": "era-cataclysm"
+    },
+    {
+      "type": "term",
+      "id": "celestia"
+    },
+    {
+      "type": "term",
+      "id": "abyss"
+    },
+    {
+      "type": "term",
+      "id": "forbidden-knowledge"
+    },
+    {
+      "type": "term",
+      "id": "irminsul"
+    },
+    {
+      "type": "event",
+      "id": "deshret-forbidden-knowledge-crisis"
+    },
+    {
+      "type": "event",
+      "id": "rukkhadevata-irminsul-erasure"
+    },
+    {
+      "type": "event",
+      "id": "irminsul-cataclysm-corruption"
+    },
+    {
+      "type": "event",
+      "id": "cataclysm"
+    },
+    {
+      "type": "character",
+      "id": "greater-lord-rukkhadevata"
+    },
+    {
+      "type": "relationship",
+      "id": "rukkhadevata-irminsul"
+    },
+    {
+      "type": "relationship",
+      "id": "deshret-forbidden"
+    },
+    {
+      "type": "relationship",
+      "id": "rukkhadevata-forbidden"
+    },
+    {
+      "type": "claim",
+      "id": "claim-forbidden-knowledge-outside-world"
+    },
+    {
+      "type": "claim",
+      "id": "claim-irminsul-rewrite-not-physical-undo"
+    }
+  ],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "33"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  },
+  "questOrCollection": {
+    "en": "Akasha Pulses, the Kalpa Flame Rises",
+    "ru": "Akasha Pulses, the Kalpa Flame Rises"
+  },
+  "chapter": {
+    "en": "Chapter III, Act V",
+    "ru": "Глава III, акт V"
+  }
+}

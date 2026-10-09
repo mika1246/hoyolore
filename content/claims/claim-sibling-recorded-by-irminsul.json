@@ -1,0 +1,46 @@
+{
+  "id": "claim-sibling-recorded-by-irminsul",
+  "kind": "claim",
+  "name": {
+    "en": "Unlike the Traveler, the Traveler's sibling is recorded by I…",
+    "ru": "В отличие от Путника, сиблинг Путника записан Ирминсулем как…"
+  },
+  "description": {
+    "en": "Unlike the Traveler, the Traveler's sibling is recorded by Irminsul as belonging to Teyvat; the reason for this difference is an unresolved mystery and should not be given an unconfirmed origin explanation.",
+    "ru": "В отличие от Путника, сиблинг Путника записан Ирминсулем как принадлежащий Тейвату; причина этого различия — нерешённая загадка, которой не следует приписывать неподтверждённое объяснение происхождения."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-sumeru-aq-ch3-act5"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "subject": {
+    "type": "character",
+    "id": "traveler-sibling"
+  },
+  "statement": {
+    "en": "Unlike the Traveler, the sibling is recorded in Irminsul as belonging to Teyvat. The reason is a separate unresolved question.",
+    "ru": "В отличие от Путешественника, близнец записан в Ирминсуле как принадлежащий Тейвату. Причина — отдельный нерешённый вопрос."
+  },
+  "introducedInVersion": "v-fontaine",
+  "status": "current",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "26"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

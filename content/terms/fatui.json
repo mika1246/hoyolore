@@ -1,0 +1,45 @@
+{
+  "id": "fatui",
+  "kind": "term",
+  "name": {
+    "en": "Fatui",
+    "ru": "Фатуи"
+  },
+  "description": {
+    "en": "Referenced briefly for its role in the post-Cataclysm world order; not independently detailed beyond this research pass.",
+    "ru": "Кратко упоминается в контексте роли в миропорядке после Катаклизма; подробно за пределами этого исследовательского прохода не раскрывается."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [
+    {
+      "type": "character",
+      "id": "pierro"
+    }
+  ],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "category": "organization",
+  "definition": {
+    "en": "A political/espionage organization operating under the Tsaritsa and Pierro, prominent from the post-Cataclysm era onward.",
+    "ru": "Политико-шпионская организация, действующая под руководством Царицы и Пьеро, заметная с эпохи после Катаклизма."
+  },
+  "alternativeTranslations": [],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "29"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

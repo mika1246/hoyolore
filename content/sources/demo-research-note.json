@@ -1,0 +1,44 @@
+{
+  "id": "demo-research-note",
+  "kind": "source",
+  "name": {
+    "en": "Research worksheet — demonstration",
+    "ru": "Исследовательская заметка — пример"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": false,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-2",
+  "lastModifiedInVersion": "demo-2",
+  "lastReviewedInVersion": "demo-2",
+  "reviewStatus": "incomplete",
+  "sourceType": "Other",
+  "gameVersion": "demo-2",
+  "notes": {
+    "en": "Synthetic workflow fixture, not an original game source and not evidence of lore. No external URL is asserted.",
+    "ru": "Учебная запись рабочего процесса, не первоисточник игры и не доказательство лора. Внешняя ссылка отсутствует."
+  },
+  "mentions": [
+    {
+      "type": "character",
+      "id": "venti"
+    },
+    {
+      "type": "event",
+      "id": "demo-event-mondstadt"
+    },
+    {
+      "type": "term",
+      "id": "irminsul"
+    }
+  ],
+  "processingStatus": "unprocessed",
+  "introducedInVersion": "demo-2"
+}

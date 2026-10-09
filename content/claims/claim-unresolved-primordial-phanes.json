@@ -1,0 +1,46 @@
+{
+  "id": "claim-unresolved-primordial-phanes",
+  "kind": "claim",
+  "name": {
+    "en": "Primordial One and Phanes",
+    "ru": "Изначальный и Фанес"
+  },
+  "description": {
+    "en": "Before Sun and Moon says the Primordial One may have been Phanes; the identification is not certain.",
+    "ru": "В Before Sun and Moon сказано, что Изначальный мог быть Фанесом; отождествление не является достоверным."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-before-sun-and-moon"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "disputed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "3.2"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  },
+  "subject": {
+    "type": "character",
+    "id": "primordial-one"
+  },
+  "statement": {
+    "en": "Before Sun and Moon says the Primordial One may have been Phanes; the identification is not certain.",
+    "ru": "В Before Sun and Moon сказано, что Изначальный мог быть Фанесом; отождествление не является достоверным."
+  },
+  "introducedInVersion": "v-research-pack-1",
+  "status": "disputed"
+}

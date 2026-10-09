@@ -1,0 +1,68 @@
+{
+  "id": "src-caribert",
+  "kind": "source",
+  "name": {
+    "en": "Caribert",
+    "ru": "Caribert"
+  },
+  "description": {
+    "en": "Khaenri’ah / Dainsleif quest anchor. The pack groups it with sibling and curse research; exact passages require review.",
+    "ru": "Задание, связанное с Каэнри’ах и Дайнслейфом. В пакете включено в исследование близнеца и проклятий; точные фрагменты требуют проверки."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "sourceType": "Archon Quest",
+  "gameVersion": "v-research-pack-1",
+  "introducedInVersion": "v-research-pack-1",
+  "notes": {
+    "en": "Khaenri’ah / Dainsleif quest anchor. The pack groups it with sibling and curse research; exact passages require review.",
+    "ru": "Задание, связанное с Каэнри’ах и Дайнслейфом. В пакете включено в исследование близнеца и проклятий; точные фрагменты требуют проверки."
+  },
+  "processingStatus": "partially-processed",
+  "mentions": [
+    {
+      "type": "region",
+      "id": "khaenriah"
+    },
+    {
+      "type": "term",
+      "id": "khemia"
+    },
+    {
+      "type": "term",
+      "id": "khaenriahn-curses"
+    },
+    {
+      "type": "event",
+      "id": "fall-of-khaenriah"
+    },
+    {
+      "type": "character",
+      "id": "dainsleif"
+    },
+    {
+      "type": "claim",
+      "id": "claim-unresolved-khaenriahn-curses"
+    }
+  ],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "33"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

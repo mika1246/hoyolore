@@ -1,0 +1,54 @@
+{
+  "id": "archon-war-end",
+  "kind": "event",
+  "name": {
+    "en": "End of the Archon War",
+    "ru": "Конец Войны Архонтов"
+  },
+  "description": {
+    "en": "Only Barbatos (Venti) and Morax (Zhongli) remained from the original Seven into the modern era; other seats changed holders over time. Current lore links the Seven-seat system to the post-War-of-Funerary-Flame restructuring of the world, but exact causal steps remain claims with sources rather than one simplified sentence.",
+    "ru": "Из изначальной Семёрки до современности сохранились только Барбатос (Венти) и Моракс (Чжун Ли); прочие престолы со временем сменили обладателей. Актуальный лор связывает систему Семи престолов с послевоенным переустройством мира после Войны погребального пламени, но точные причинные шаги остаются утверждениями с источниками, а не одной упрощённой фразой."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "date": {
+    "type": "approximate",
+    "yearsBeforePresent": 2000
+  },
+  "era": "era-archon-war",
+  "regions": [],
+  "locations": [],
+  "participants": [
+    "venti",
+    "zhongli"
+  ],
+  "relatedTerms": [
+    "archons"
+  ],
+  "eventType": "war-conclusion",
+  "summary": {
+    "en": "The final divine seat is claimed, establishing the Seven as the dominant divine-political order.",
+    "ru": "Занимается последний божественный престол, устанавливая Семерых как господствующий божественно-политический порядок."
+  },
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "10.1"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  },
+  "parentEvent": "archon-war"
+}

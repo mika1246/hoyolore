@@ -1,0 +1,42 @@
+{
+  "id": "amrita",
+  "kind": "term",
+  "name": {
+    "en": "Amrita",
+    "ru": "Амрита"
+  },
+  "description": {
+    "en": "The state of Egeria’s remains after her Cataclysm death, used by Rukkhadevata in growing Harvisptokhm.",
+    "ru": "Состояние останков Эгерии после гибели во время Катаклизма; Руккхадевата использовала их при выращивании Харвисптохма."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-khvarena-of-good-and-evil"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "22"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  },
+  "category": "substance",
+  "definition": {
+    "en": "The state of Egeria’s remains after her Cataclysm death, used by Rukkhadevata in growing Harvisptokhm.",
+    "ru": "Состояние останков Эгерии после гибели во время Катаклизма; Руккхадевата использовала их при выращивании Харвисптохма."
+  },
+  "alternativeTranslations": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "era-travelers-journey",
+  "kind": "era",
+  "name": {
+    "en": "Traveler's Journey",
+    "ru": "Путешествие Путника"
+  },
+  "description": {
+    "en": "The Traveler awakens and travels the nations; the Irminsul rewrite occurs in Sumeru; the Fontaine prophecy resolves and the Hydro Divine Throne is destroyed with Authority returning to Neuvillette; the Natlan crisis reveals more ancient dragon/Abyss history; Nod-Krai/lunar material reveals additional information about the Three Moons, Descenders, and Saarelainen.",
+    "ru": "Путник пробуждается и странствует по нациям; в Сумеру происходит переписывание Ирминсуля; разрешается пророчество Фонтейна, разрушается Божественный Престол Гидро, и Прерогатива возвращается Невилету; кризис Натлана раскрывает больше древней истории драконов и Бездны; материалы Нод-Края/лунной темы раскрывают больше сведений о Трёх Лунах, Сошедших и Саарелайнене."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-sumeru-aq-ch3-act5",
+    "src-fontaine-aq-masquerade",
+    "src-natlan-archon-quests",
+    "src-song-of-welkin-moon"
+  ],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "start": {
+    "type": "approximate",
+    "yearsBeforePresent": 0
+  },
+  "end": {
+    "type": "approximate",
+    "yearsBeforePresent": 0
+  },
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "29"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "v-research-pack-1",
+  "kind": "version",
+  "name": {
+    "en": "Core lore research pack — first ingestion",
+    "ru": "Пакет базового исследования лора — первая загрузка"
+  },
+  "description": {
+    "en": "Administrative version marking the first structured ingestion of the core cosmology/ancient-history research pack (24 September 2026). Not a game patch.",
+    "ru": "Служебная версия, отмечающая первую структурированную загрузку исследовательского пакета по космологии и древней истории (24 сентября 2026). Не является игровым патчем."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "incomplete",
+  "version": "research-pack-1",
+  "order": 100,
+  "status": "research-batch"
+}

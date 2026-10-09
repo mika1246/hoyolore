@@ -1,0 +1,25 @@
+{
+  "id": "v-nod-krai",
+  "kind": "version",
+  "name": {
+    "en": "Nod-Krai / lunar era (version pending confirmation)",
+    "ru": "Нод-Край / лунная эпоха (номер версии уточняется)"
+  },
+  "description": {
+    "en": "Source grouping retained from the draft import. The pack does not supply an exact game patch; this is not a verified release or a future planned patch. Ordering is administrative only.",
+    "ru": "Группа источников сохранена из чернового импорта. Точный игровой патч в пакете не указан; это не проверенный выпуск и не будущий патч. Порядок только служебный."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "incomplete",
+  "version": "unknown",
+  "order": 60,
+  "status": "unknown"
+}

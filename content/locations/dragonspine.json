@@ -1,0 +1,40 @@
+{
+  "id": "dragonspine",
+  "kind": "location",
+  "name": {
+    "en": "Dragonspine",
+    "ru": "Драконий Хребет"
+  },
+  "description": {
+    "en": "The location where Durin was defeated during the defense of Mondstadt. His corrupted blood remains part of its later environmental history.",
+    "ru": "Место поражения Дурина во время защиты Мондштадта. Его заражённая кровь связана с дальнейшей историей этой местности."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-durin-dragonspine-material"
+  ],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "region": "mondstadt",
+  "locationType": "mountain / ancient dragon burial ground",
+  "historicalStatus": "unknown",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "7",
+      "21"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

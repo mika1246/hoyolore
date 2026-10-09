@@ -1,0 +1,64 @@
+{
+  "id": "ancient-sumeru-celestial-nail",
+  "kind": "event",
+  "name": {
+    "en": "Sumeru's Great Red Sand transformation",
+    "ru": "Преобразование Великих Красных песков Сумеру"
+  },
+  "description": {
+    "en": "Apep’s history and later Sumeru sources frame this period as a major rupture between the old dragon world and the new order. Do not conflate this ancient catastrophe with the much later forbidden-knowledge disaster caused by King Deshret — they are separate events.",
+    "ru": "История Апеп и позднейшие источники Сумеру описывают этот период как крупный разрыв между старым миром драконов и новым порядком. Не следует путать эту древнюю катастрофу с гораздо более поздней катастрофой запретного знания, вызванной царём Дешретом, — это отдельные события."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-nahida-story-quest-act2"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [
+    {
+      "type": "event",
+      "id": "war-of-funerary-flame"
+    }
+  ],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "date": {
+    "type": "approximate",
+    "yearsBeforePresent": 6000
+  },
+  "era": "era-war-of-funerary-flame",
+  "regions": [
+    "sumeru"
+  ],
+  "locations": [
+    "great-red-sand-desert"
+  ],
+  "participants": [
+    "apep"
+  ],
+  "relatedTerms": [
+    "celestial-nail"
+  ],
+  "eventType": "catastrophe",
+  "summary": {
+    "en": "A Celestial Nail and the ancient war are connected to a catastrophic environmental transformation in Sumeru.",
+    "ru": "Небесный гвоздь и древняя война связаны с катастрофическим экологическим преобразованием Сумеру."
+  },
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "6.3"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  },
+  "parentEvent": "war-of-funerary-flame"
+}

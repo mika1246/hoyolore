@@ -1,0 +1,44 @@
+{
+  "id": "demo-event-mondstadt",
+  "kind": "event",
+  "name": {
+    "en": "An archive fragment",
+    "ru": "Фрагмент архива"
+  },
+  "description": {
+    "en": "Synthetic example only. The date, participants and location demonstrate the knowledge model; they do not assert a canonical event. Replace this record with researched content before using the archive as a reference.",
+    "ru": "Только учебный пример. Дата, участники и место демонстрируют модель данных, а не каноническое событие. Замените запись проверенными сведениями перед использованием архива как справочника."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "date": {
+    "type": "approximate",
+    "yearsBeforePresent": 500,
+    "uncertainty": 80
+  },
+  "regions": [
+    "mondstadt"
+  ],
+  "locations": [
+    "demo-mondstadt"
+  ],
+  "participants": [
+    "venti",
+    "dvalin"
+  ],
+  "relatedTerms": [],
+  "summary": {
+    "en": "An example of connecting a historical fragment to people and place.",
+    "ru": "Пример связи исторического фрагмента с людьми и местом."
+  },
+  "era": "demo-era",
+  "eventType": "research"
+}

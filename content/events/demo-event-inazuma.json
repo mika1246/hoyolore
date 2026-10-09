@@ -1,0 +1,41 @@
+{
+  "id": "demo-event-inazuma",
+  "kind": "event",
+  "name": {
+    "en": "Across the sea",
+    "ru": "За морем"
+  },
+  "description": {
+    "en": "Synthetic example only. The date, participants and location demonstrate the knowledge model; they do not assert a canonical event. Replace this record with researched content before using the archive as a reference.",
+    "ru": "Только учебный пример. Дата, участники и место демонстрируют модель данных, а не каноническое событие. Замените запись проверенными сведениями перед использованием архива как справочника."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "date": {
+    "type": "approximate",
+    "yearsBeforePresent": 540,
+    "uncertainty": 80
+  },
+  "regions": [
+    "inazuma"
+  ],
+  "locations": [
+    "demo-inazuma"
+  ],
+  "participants": [],
+  "relatedTerms": [],
+  "summary": {
+    "en": "A regional event placed alongside contemporary examples.",
+    "ru": "Региональное событие рядом с примерами того же периода."
+  },
+  "era": "demo-era",
+  "eventType": "research"
+}

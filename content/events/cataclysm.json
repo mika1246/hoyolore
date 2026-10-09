@@ -1,0 +1,71 @@
+{
+  "id": "cataclysm",
+  "kind": "event",
+  "name": {
+    "en": "The Cataclysm",
+    "ru": "Катаклизм"
+  },
+  "description": {
+    "en": "One of the most important synchronized events in the entire timeline: Khaenri’ah fell; Abyssal monsters and corruption spread; several major gods/Archons died or disappeared; Irminsul was polluted by forbidden knowledge; the Traveler’s sibling witnessed Khaenri’ah’s destruction; the consequences produced political and religious transformations still active in the present. The exact order of many Cataclysm events remains unresolved; it functions here as a parent event, connected to (not merged with) its regional child events via relatedEntities.",
+    "ru": "Одно из важнейших синхронизированных событий всей хронологии: Каэнри’ах пал; распространились бездненские монстры и заражение; погибли или исчезли несколько крупных богов/Архонтов; Ирминсуль был заражён запретным знанием; сиблинг Путника стал свидетелем уничтожения Каэнри’ах; последствия вызвали политические и религиозные перемены, действующие и поныне. Точный порядок многих событий Катаклизма остаётся неясным; здесь оно выступает как родительское событие, связанное (а не слитое) со своими региональными дочерними событиями через relatedEntities."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-dainsleif-archon-quests",
+    "src-where-boat-of-consciousness-lies",
+    "src-raiden-shogun-story-quest-act2",
+    "src-durin-dragonspine-material",
+    "src-khvarena-of-good-and-evil",
+    "src-natlan-archon-quests"
+  ],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "date": {
+    "type": "approximate",
+    "yearsBeforePresent": 500
+  },
+  "era": "era-cataclysm",
+  "regions": [
+    "khaenriah",
+    "mondstadt",
+    "inazuma",
+    "sumeru",
+    "fontaine",
+    "natlan"
+  ],
+  "locations": [],
+  "participants": [],
+  "relatedTerms": [
+    "forbidden-knowledge",
+    "abyss"
+  ],
+  "eventType": "catastrophe",
+  "summary": {
+    "en": "Khaenri’ah falls, Abyssal corruption spreads across Teyvat, and multiple nations experience simultaneous disaster.",
+    "ru": "Каэнри’ах падает, заражение Бездной распространяется по Тейвату, и несколько наций одновременно переживают катастрофу."
+  },
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

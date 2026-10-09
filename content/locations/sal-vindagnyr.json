@@ -1,0 +1,38 @@
+{
+  "id": "sal-vindagnyr",
+  "kind": "location",
+  "name": {
+    "en": "Sal Vindagnyr",
+    "ru": "Саль Виндагнюр"
+  },
+  "description": {
+    "en": "Named alongside Dragonspine as a Celestial Nail-related site. The pack does not identify it as a dragon settlement or supply its historical extent.",
+    "ru": "Назван рядом с Драконьим хребтом как место, связанное с Небесным гвоздём. Пакет не называет его поселением драконов и не задаёт исторических границ."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "region": "mondstadt",
+  "locationType": "ancient dragon settlement",
+  "historicalStatus": "unknown",
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "7",
+      "21"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

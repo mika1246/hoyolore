@@ -1,0 +1,45 @@
+{
+  "id": "era-war-of-funerary-flame",
+  "kind": "era",
+  "name": {
+    "en": "War of Funerary Flame",
+    "ru": "Война погребального пламени"
+  },
+  "description": {
+    "en": "Nibelung returns with Abyss-associated power and wages a world-scale war against the Heavenly Principles; regional consequences (lunar catastrophe, the fall of Enkanomiya, Celestial Nails, Natlan’s Ley Line devastation, Sumeru’s environmental transformation) are often indexed to roughly ~6000 years before the present in community chronology compilations, though no primary source assigns the war itself one exact year.",
+    "ru": "Нибелунг возвращается с силой, связанной с Бездной, и развязывает общемировую войну против Небесных Принципов; региональные последствия (лунная катастрофа, падение Энканомии, Небесные гвозди, разрушение артерий земли Натлана, экологическое преобразование Сумеру) в сводных хронологиях сообщества часто относят примерно к ~6000 годам до настоящего времени, хотя ни один первоисточник не называет для самой войны точный год."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-natlan-dragon-history",
+    "src-song-of-welkin-moon"
+  ],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "start": {
+    "type": "relative",
+    "after": "creation-of-human-order"
+  },
+  "end": {
+    "type": "relative",
+    "before": "saarelainen-death"
+  },
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "29"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

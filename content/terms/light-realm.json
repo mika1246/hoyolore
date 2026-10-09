@@ -1,0 +1,42 @@
+{
+  "id": "light-realm",
+  "kind": "term",
+  "name": {
+    "en": "Light Realm",
+    "ru": "Царство Света"
+  },
+  "description": {
+    "en": "Part of a high-level model distinguishing powers native to different world systems. Confirmed at a broad level; specific details should remain source-specific and should not be over-generalized beyond what a given source states.",
+    "ru": "Часть общей модели, различающей силы, присущие разным миросистемам. Подтверждено на общем уровне; детали должны оставаться привязанными к конкретным источникам и не обобщаться сверх сказанного в них."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-three-realms-gateway-offering"
+  ],
+  "demo": false,
+  "citationNeeded": true,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "category": "cosmology",
+  "definition": {
+    "en": "A realm/world-system associated with elemental beings and dragonkind.",
+    "ru": "Царство/миросистема, связанная с элементальными существами и родом драконов."
+  },
+  "alternativeTranslations": [],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "1.2"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

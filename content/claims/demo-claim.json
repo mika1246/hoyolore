@@ -1,0 +1,32 @@
+{
+  "id": "demo-claim",
+  "kind": "claim",
+  "name": {
+    "en": "A statement awaiting evidence",
+    "ru": "Утверждение, ожидающее доказательств"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "theory",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-2",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "subject": {
+    "type": "event",
+    "id": "demo-event-mondstadt"
+  },
+  "statement": {
+    "en": "This synthetic claim demonstrates how an important interpretation is tracked. It is not a lore assertion.",
+    "ru": "Это учебное утверждение показывает отслеживание важных интерпретаций. Оно не утверждает фактов лора."
+  },
+  "introducedInVersion": "demo-2",
+  "status": "current"
+}

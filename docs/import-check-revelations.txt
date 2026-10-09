@@ -1,0 +1,457 @@
+
+> teyvat-historical-archive@0.1.0 validate-content
+> tsx scripts/validate.ts
+
+Indexed 203 content records.
+WARNING content/characters/aria.json
+  Citation needed
+WARNING content/characters/canon.json
+  Citation needed
+WARNING content/characters/pierro.json
+  Citation needed
+WARNING content/characters/ruler-of-life.json
+  Citation needed
+WARNING content/characters/sonnet.json
+  Citation needed
+WARNING content/characters/sustainer-of-heavenly-principles.json
+  Citation needed
+WARNING content/characters/venti.json
+  Citation needed
+WARNING content/characters/zhongli.json
+  Citation needed
+WARNING content/claims/claim-unresolved-celestia-heavenly.json
+  Citation needed
+WARNING content/claims/demo-claim.json
+  Citation needed
+WARNING content/eras/demo-era.json
+  Citation needed
+WARNING content/eras/era-age-of-the-seven.json
+  Citation needed
+WARNING content/eras/era-archon-war.json
+  Citation needed
+WARNING content/eras/era-cataclysm.json
+  Citation needed
+WARNING content/eras/era-post-cataclysm.json
+  Citation needed
+WARNING content/eras/era-travelers-journey.json
+  Citation needed
+WARNING content/eras/era-war-of-funerary-flame.json
+  Citation needed
+WARNING content/events/ancient-lunar-catastrophe.json
+  Citation needed
+WARNING content/events/archon-war-end.json
+  Citation needed
+WARNING content/events/archon-war.json
+  Citation needed
+WARNING content/events/demo-event-inazuma.json
+  Citation needed
+WARNING content/events/demo-event-liyue.json
+  Citation needed
+WARNING content/events/demo-event-mondstadt.json
+  Citation needed
+WARNING content/events/demo-event-sumeru.json
+  Citation needed
+WARNING content/events/demo-undated.json
+  Citation needed
+WARNING content/events/war-of-funerary-flame.json
+  Citation needed
+WARNING content/locations/demo-inazuma.json
+  Citation needed
+WARNING content/locations/demo-liyue.json
+  Citation needed
+WARNING content/locations/demo-mondstadt.json
+  Citation needed
+WARNING content/locations/demo-sumeru.json
+  Citation needed
+WARNING content/locations/dragonspine.json
+  Citation needed
+WARNING content/locations/sal-vindagnyr.json
+  Citation needed
+WARNING content/locations/the-chasm.json
+  Citation needed
+WARNING content/map/territories/demo-territory.json
+  Citation needed
+WARNING content/regions/khaenriah.json
+  Citation needed
+WARNING content/regions/liyue.json
+  Citation needed
+WARNING content/regions/mondstadt.json
+  Citation needed
+WARNING content/regions/natlan.json
+  Citation needed
+WARNING content/regions/snezhnaya.json
+  Citation needed
+WARNING content/relationships/demo-venti-dvalin.json
+  Citation needed
+WARNING content/sources/src-chiyo-texts.json
+  Citation needed
+WARNING content/sources/src-dainsleif-archon-quests.json
+  Citation needed
+WARNING content/sources/src-durin-dragonspine-material.json
+  Citation needed
+WARNING content/sources/src-dvalin-venti-story-material.json
+  Citation needed
+WARNING content/sources/src-enkanomiya-world-quests.json
+  Citation needed
+WARNING content/sources/src-fontaine-aq-focalors-climax.json
+  Citation needed
+WARNING content/sources/src-hakushin-kitsune-saiguu-texts.json
+  Citation needed
+WARNING content/sources/src-luna-series-material.json
+  Citation needed
+WARNING content/sources/src-narzissenkreuz-world-quest.json
+  Citation needed
+WARNING content/sources/src-natlan-archon-quests.json
+  Citation needed
+WARNING content/sources/src-natlan-dragon-history.json
+  Citation needed
+WARNING content/sources/src-night-kingdom-dialogue.json
+  Citation needed
+WARNING content/sources/src-skyward-weapon-series.json
+  Citation needed
+WARNING content/sources/src-song-of-welkin-moon.json
+  Citation needed
+WARNING content/sources/src-three-realms-gateway-offering.json
+  Citation needed
+WARNING content/terms/abyss-order.json
+  Citation needed
+WARNING content/terms/archons.json
+  Citation needed
+WARNING content/terms/celestia.json
+  Citation needed
+WARNING content/terms/celestial-nail.json
+  Citation needed
+WARNING content/terms/eclipse-dynasty.json
+  Citation needed
+WARNING content/terms/false-sky.json
+  Citation needed
+WARNING content/terms/fatui.json
+  Citation needed
+WARNING content/terms/first-descender.json
+  Citation needed
+WARNING content/terms/human-realm.json
+  Citation needed
+WARNING content/terms/khaenriahn-curses.json
+  Citation needed
+WARNING content/terms/khemia.json
+  Citation needed
+WARNING content/terms/light-realm.json
+  Citation needed
+WARNING content/terms/primordial-sea.json
+  Citation needed
+WARNING content/terms/the-seven.json
+  Citation needed
+WARNING content/terms/three-moons.json
+  Citation needed
+WARNING content/terms/void-realm.json
+  Citation needed
+WARNING content/characters/apep.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/aria.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/canon.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/dainsleif.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/durin.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/dvalin.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/egeria.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/ei.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/focalors.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/greater-lord-rukkhadevata.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/hroptatyr.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/istaroth.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/king-deshret.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/makoto.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/nabu-malikata.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/nahida.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/neuvillette.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/nibelung.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/pierro.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/primordial-one.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/rerir.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/rhinedottir.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/ronova.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/ruler-of-life.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/saarelainen.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/simurgh.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/sonnet.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/surtalogi.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/sustainer-of-heavenly-principles.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/third-descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/traveler-sibling.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/traveler.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/vedrfolnir.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/venti.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/characters/zhongli.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-forbidden-knowledge-outside-world.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-gnoses-from-third-descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-hydro-authority-returned-to-neuvillette.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-irminsul-rewrite-not-physical-undo.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-natlan-ley-lines-damaged-ancient-war.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-saarelainen-is-third-descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-sibling-recorded-by-irminsul.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-traveler-fourth-descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-cataclysm-causality.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-celestia-heavenly.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-false-sky.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-khaenriahn-curses.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-lunar-order.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-nibelung-descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-one-who-came-after.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-primordial-heavenly-first.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-primordial-phanes.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-sibling-anomaly.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/claim-unresolved-unseen-irminsul-edits.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/claims/demo-claim.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-age-of-the-seven.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-archon-war.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-cataclysm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-early-human-order.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-heavenly-principles-arrival.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-old-dragon-world.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-post-cataclysm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-post-war-restructuring.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-travelers-journey.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/eras/era-war-of-funerary-flame.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/ancient-lunar-catastrophe.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/ancient-sumeru-celestial-nail.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/archon-war-end.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/archon-war.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/arrival-of-heavenly-principles.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/cataclysm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/creation-of-gnoses.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/creation-of-harvisptokhm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/creation-of-human-order.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/creation-of-night-kingdom.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/death-of-egeria.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/death-of-makoto.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/demo-event-inazuma.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/demo-event-liyue.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/demo-event-mondstadt.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/demo-event-sumeru.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/demo-undated.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/deshret-forbidden-knowledge-crisis.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/destruction-of-hydro-divine-throne.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/durin-attack-on-mondstadt.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/fall-of-enkanomiya.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/fall-of-khaenriah.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/irminsul-cataclysm-corruption.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/natlan-cataclysm-invasion.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/natlan-ley-line-destruction.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/old-world-dragon-order.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/restoration-of-hydro-authority.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/rukkhadevata-irminsul-erasure.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/saarelainen-death.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/sacred-sakura-temporal-event.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/war-against-seven-sovereigns.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/events/war-of-funerary-flame.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/demo-inazuma.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/demo-mondstadt.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/demo-sumeru.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/dragonspine.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/enkanomiya.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/great-red-sand-desert.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/harvisptokhm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/night-kingdom.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/sal-vindagnyr.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/the-chasm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/tunigi-hollow.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/locations/vourukasha-oasis.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/map/territories/demo-territory.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/regions/fontaine.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/regions/inazuma.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/regions/khaenriah.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/regions/mondstadt.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/regions/natlan.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/regions/sumeru.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/relationships/demo-venti-dvalin.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/relationships/focalors-egeria.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/relationships/focalors-neuvillette.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/relationships/makoto-ei.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/relationships/rhinedottir-durin.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/relationships/venti-dvalin-defense-of-mondstadt.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/abyss-order.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/abyss.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/amrita.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/archons.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/celestia.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/celestial-nail.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/divine-throne.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/eclipse-dynasty.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/elemental-authority.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/false-sky.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/fatui.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/first-descender.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/five-sinners.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/forbidden-knowledge.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/four-shades.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/gnosis.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/heavenly-principles.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/human-realm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/hydro-sovereign.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/irminsul.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/khaenriahn-curses.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/khemia.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/ley-lines.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/light-realm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/primordial-sea.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/seven-sovereigns.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/sovereign.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/teyvat.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/the-seven.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/three-moons.json
+  Review recommended: a related source, claim or dependency is newer than last review
+WARNING content/terms/void-realm.json
+  Review recommended: a related source, claim or dependency is newer than last review
+
+203 records · 0 errors · 225 warnings

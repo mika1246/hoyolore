@@ -1,0 +1,32 @@
+{
+  "id": "demo-territory",
+  "kind": "territory",
+  "name": {
+    "en": "Illustrative territory",
+    "ru": "Учебная территория"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "entity": {
+    "type": "region",
+    "id": "mondstadt"
+  },
+  "period": {
+    "startBP": 800,
+    "endBP": 200
+  },
+  "geometryId": "demo-boundary",
+  "geographyConfidence": "speculative"
+}

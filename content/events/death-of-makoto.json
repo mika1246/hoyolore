@@ -1,0 +1,61 @@
+{
+  "id": "death-of-makoto",
+  "kind": "event",
+  "name": {
+    "en": "Death of Makoto",
+    "ru": "Смерть Макото"
+  },
+  "description": {
+    "en": "Makoto went to Khaenri’ah; Ei initially stayed behind and later found her dying. Her death led to Ei becoming the sole Electro Archon. Kitsune Saiguu’s loss and Chiyo’s corruption are separate regional consequences, not causes assigned to Makoto’s death.",
+    "ru": "Макото отправилась в Каэнри’ах; Эи сначала осталась, а позднее застала её умирающей. После гибели Макото Эи стала единственным Электро Архонтом. Утрата Kitsune Saiguu и заражение Chiyo — отдельные региональные последствия, а не приписанные причины смерти Макото."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-raiden-shogun-story-quest-act2"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [
+    {
+      "type": "event",
+      "id": "cataclysm"
+    }
+  ],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "date": {
+    "type": "approximate",
+    "yearsBeforePresent": 500
+  },
+  "era": "era-cataclysm",
+  "regions": [
+    "inazuma"
+  ],
+  "locations": [],
+  "participants": [
+    "makoto",
+    "ei"
+  ],
+  "relatedTerms": [],
+  "eventType": "catastrophe",
+  "summary": {
+    "en": "Makoto dies in Khaenri'ah after going there while Ei remained behind; her death leads to Ei becoming the sole Electro Archon.",
+    "ru": "Макото гибнет в Каэнри’ах, куда отправилась, пока Эи оставалась позади; её смерть приводит к тому, что Эи становится единственным Архонтом Электро."
+  },
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "20"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  },
+  "parentEvent": "cataclysm"
+}

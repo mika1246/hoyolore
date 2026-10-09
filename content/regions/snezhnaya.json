@@ -1,0 +1,25 @@
+{
+  "id": "snezhnaya",
+  "kind": "region",
+  "name": {
+    "en": "Snezhnaya",
+    "ru": "Снежная"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "color": "#8c9fa7",
+  "civilizations": [],
+  "organizations": []
+}

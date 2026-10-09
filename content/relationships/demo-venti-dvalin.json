@@ -1,0 +1,29 @@
+{
+  "id": "demo-venti-dvalin",
+  "kind": "relationship",
+  "name": {
+    "en": "Example connection",
+    "ru": "Пример связи"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": true,
+  "evidenceStatus": "theory",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "sourceCharacter": "venti",
+  "targetCharacter": "dvalin",
+  "relationshipType": {
+    "en": "Relationship to research",
+    "ru": "Связь для исследования"
+  },
+  "introducedInVersion": "demo-1"
+}

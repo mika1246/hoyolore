@@ -1,0 +1,59 @@
+{
+  "id": "teyvat",
+  "kind": "term",
+  "name": {
+    "en": "Teyvat",
+    "ru": "Тейват"
+  },
+  "description": {
+    "en": "Teyvat’s present order is not its original order: the setting preserves traces of the ancient dragon world, the order imposed by the Heavenly Principles, later divine and human civilizations, the Seven-Archon system, and incursions of powers from outside the world. Avoid treating \"Teyvat\" as synonymous with only the current seven nations — earlier civilizations, territories outside the Seven’s jurisdiction, subterranean realms, the Dark Sea, and the Abyss are all part of its history.",
+    "ru": "Нынешний порядок Тейвата не является изначальным: мир хранит следы древнего мира драконов, порядка, установленного Небесными Принципами, позднейших божественных и человеческих цивилизаций, системы Семи Архонтов и вторжений сил извне мира. Не стоит отождествлять «Тейват» только с нынешними семью нациями — древние цивилизации, земли вне юрисдикции Семи, подземные царства, Тёмное море и Бездна — тоже часть его истории."
+  },
+  "alternativeNames": [],
+  "sources": [
+    "src-before-sun-and-moon"
+  ],
+  "demo": false,
+  "citationNeeded": false,
+  "evidenceStatus": "confirmed",
+  "relatedEntities": [
+    {
+      "type": "term",
+      "id": "seven-sovereigns"
+    },
+    {
+      "type": "term",
+      "id": "heavenly-principles"
+    },
+    {
+      "type": "term",
+      "id": "abyss"
+    },
+    {
+      "type": "term",
+      "id": "irminsul"
+    }
+  ],
+  "createdInVersion": "v-research-pack-1",
+  "lastModifiedInVersion": "v-research-pack-1",
+  "lastReviewedInVersion": "v-research-pack-1",
+  "reviewStatus": "needs-review",
+  "category": "world",
+  "definition": {
+    "en": "The world in which the main story takes place.",
+    "ru": "Мир, в котором происходит основной сюжет."
+  },
+  "alternativeTranslations": [],
+  "provenance": {
+    "pack": "teyvat_core_lore_research_pack.md",
+    "sections": [
+      "1.1"
+    ],
+    "verification": "pack-only",
+    "localization": "editorial-translation",
+    "notes": {
+      "en": "Imported from the supplied research pack, not independently checked against game transcripts. Russian labels are editorial translations unless supplied by the pack or already established in this archive; exact official localization and game version require review.",
+      "ru": "Импортировано из предоставленного исследовательского пакета; сверка с игровыми текстами не выполнена. Русские названия — редакторский перевод, кроме приведённых в пакете или уже принятых в архиве; официальную локализацию и версию игры нужно проверить."
+    }
+  }
+}

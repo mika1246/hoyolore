@@ -1,0 +1,25 @@
+{
+  "id": "demo-1",
+  "kind": "version",
+  "name": {
+    "en": "Demo patch 1",
+    "ru": "Учебный патч 1"
+  },
+  "description": {
+    "en": "Demonstration record for exploring the archive. This is not a verified lore article.",
+    "ru": "Демонстрационная запись для изучения архива. Это не проверенная статья о лоре."
+  },
+  "alternativeNames": [],
+  "sources": [],
+  "demo": true,
+  "citationNeeded": false,
+  "evidenceStatus": "approximate",
+  "relatedEntities": [],
+  "createdInVersion": "demo-1",
+  "lastModifiedInVersion": "demo-1",
+  "lastReviewedInVersion": "demo-1",
+  "reviewStatus": "incomplete",
+  "version": "demo-1",
+  "order": 1,
+  "status": "demo"
+}
